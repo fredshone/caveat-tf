@@ -1,8 +1,11 @@
 # Activity Schedules + Deep Generative Learning (Variational Auto-Encoders)
 
 Variational Auto-Encoder --> VAE
+
 Activity Model --> ACT
+
 Variational Auto-Encoder + Activity Model --> VAEACT
+
 ~\~> CAVEAT
 
 Early experiments using VAEs for synthesising realistic activity sequences.
